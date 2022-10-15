@@ -53,9 +53,8 @@ OUTPUT:
 
 ### Installing MongoDB (Community Edition)
 
-    - Link to Download MongoDB - [[Download Link](https://www.mongodb.com/try/download/community2)]
-    - Offical Documentation to Install - [[Official Documents](https://docs.mongodb.com/manual/administration/install-community/)]
-
+  * Link to Download MongoDB - [Download Link](https://www.mongodb.com/try/download/community2)
+  * Offical Documentation to Install - [Official Documents](https://docs.mongodb.com/manual/administration/install-community/)
 
 ### Installing MongoDB Python package
 
